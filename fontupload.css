@@ -7,3 +7,23 @@
     font-family: 'Caveat';
     src: url('https://file.garden/ZRrc_2_MomIqlqro/fonts/Caveat-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Navish';
+    src: url('https://mypillowfort.net/navish.ttf');
+}
+
+@font-face {
+    font-family: 'Willow';
+    src: url('https://mypillowfort.net/willow.ttf');
+}
+
+@font-face {
+    font-family: 'Plushie';
+    src: url('https://mypillowfort.net/plushie.ttf');
+}
+
+@font-face {
+    font-family: 'Lacy';
+    src: url('https://mypillowfort.net/lacythethree.ttf');
+}
